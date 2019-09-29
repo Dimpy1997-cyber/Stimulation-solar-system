@@ -1,0 +1,8 @@
+﻿Build started 9/23/2019 11:43:59 AM.
+     1>Project "D:\New folder (2)\SolarSystem.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Platforms\ARM\PlatformToolsets\v120\Toolset.targets(36,5): error MSB8022: Compiling Desktop applications for the ARM platform is not supported.
+     1>Done Building Project "D:\New folder (2)\SolarSystem.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.06
